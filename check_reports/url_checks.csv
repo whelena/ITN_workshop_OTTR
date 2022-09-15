@@ -1,0 +1,17 @@
+URL,RESULT,FILENAME
+https://garrettgman.github.io/rmarkdown/rmarkdown_websites.html,passed,README.md
+https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html,passed,README.md
+https://ionic.io/ionicons,passed,editing.Rmd
+https://fontawesome.com/,passed,editing.Rmd
+https://www.ottrproject.org/writing_content.html,passed,editing.Rmd
+https://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp,passed,editing.Rmd
+https://www.ottrproject.org/customize-docker.html#Starting_a_new_Docker_image,passed,docker.Rmd
+https://gist.github.com/rxaviers/7360908,passed,docker.Rmd
+https://cran.r-project.org/web/packages/emoji/emoji.pdf,passed,docker.Rmd
+https://github.com/jhudsl/OTTR_Template_Website,passed,setup.Rmd
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token,passed,setup.Rmd
+https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf,passed,style.Rmd
+https://favicon.io/favicon-converter/,passed,style.Rmd
+https://www.datadreaming.org/post/r-markdown-theme-gallery/,passed,style.Rmd
+https://www.w3schools.com/css/,passed,style.Rmd
+https://htmlcolorcodes.com/,passed,style.Rmd
