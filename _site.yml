@@ -1,20 +1,23 @@
-name: OTTR Template Website
+name: OTTR Helena's Website # change website title
 output_dir: '.'
 navbar:
   title: OTTR Web
   left:
   - text: Home
     href: index.html
+    icon: fa-home
   - text: Setup
     href: setup.html
   - text: Hosting
     href: hosting.html
+    icon: glyphicon-globe
   - text: Editing
     href: editing.html    
   - text: Style
     href: style.html
   - text: Git Actions
     href: git_actions.html
+    icon: ion-social-github
   - text: Docker
     href: docker.html
   - text: Contact
